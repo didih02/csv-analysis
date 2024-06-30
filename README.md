@@ -24,7 +24,7 @@
 
 --find_count, help=using to find data on specific column and to know how much it is, example: python3 main.py --find_count customers-100 --column First Name --value_data Sheryl
 
-# On this project, using library, please make sure have this library on your python
+# On this project, please make sure have this library on your python
 
 argparse =>for arguments on command
 
